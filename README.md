@@ -16,3 +16,9 @@ This notebook deals with the classification of patients diagnosed with heart dis
 * ca: number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 * target: 1 or 0
+
+The dataset used for the project is uploaded in he repository and can also be downloded from:
+
+Cleaveland data from the UCI machine learning repository. https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
